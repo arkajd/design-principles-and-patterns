@@ -1,7 +1,5 @@
 package designprinciples.srp.solution;
 
-import designprinciples.model.Order;
-
 public class OrderRepository {
 
     public void save(Order order) {

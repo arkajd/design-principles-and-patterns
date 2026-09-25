@@ -1,7 +1,5 @@
 package designprinciples.srp.solution;
 
-import designprinciples.model.Order;
-
 public class OrderProcessor {
 
     private final OrderPricingCalculator pricingCalculator;

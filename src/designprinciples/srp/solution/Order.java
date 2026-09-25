@@ -1,4 +1,4 @@
-package designprinciples.model;
+package designprinciples.srp.solution;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package designprinciples.model;
+package designprinciples.srp.solution;
 
 public class OrderItem {
     private double price;

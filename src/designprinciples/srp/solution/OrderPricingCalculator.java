@@ -1,7 +1,5 @@
 package designprinciples.srp.solution;
 
-import designprinciples.model.Order;
-
 public class OrderPricingCalculator {
 
     public double calculateTotal(Order order) {

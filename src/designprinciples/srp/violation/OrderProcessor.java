@@ -1,7 +1,7 @@
 package designprinciples.srp.violation;
 
-import designprinciples.model.Order;
-import designprinciples.model.OrderItem;
+import designprinciples.srp.solution.Order;
+import designprinciples.srp.solution.OrderItem;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
